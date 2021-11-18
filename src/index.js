@@ -7,7 +7,6 @@ ReactDOM.render(
     <div>
   <Home/>
     </div>,
-
   document.getElementById('root')
 );
 
